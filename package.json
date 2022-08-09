@@ -1,0 +1,13 @@
+{
+  "name": "foxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olaf Minkowicz",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "scripts": {
+    "serve": "docsify serve app"
+  }
+}

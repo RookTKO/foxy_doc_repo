@@ -1,0 +1,11 @@
+/* @import "theme/app.css"; 
+@import "theme/base.css"; 
+@import "theme/content.css"; 
+@import "theme/cover.css"; 
+@import "theme/navbar.css"; 
+@import "theme/sidebar.css";  */
+:root {
+    --base-font-size: 10px;
+    --theme-color   : rgb(255, 179, 0);
+    --mono-hue        : 261;
+  }
