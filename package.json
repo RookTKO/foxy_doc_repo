@@ -8,6 +8,6 @@
     "docsify-cli": "^4.4.4"
   },
   "scripts": {
-    "serve": "docsify serve app"
+    "serve": "docsify serve docs"
   }
 }
